@@ -156,3 +156,6 @@ its [contributors][c]
 License
 -------
 NProgress.js is released under the MIT license.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/evereq/nprogress.js.nuget/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
